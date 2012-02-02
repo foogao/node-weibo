@@ -1,0 +1,8 @@
+# use glob syntax.
+syntax: glob
+
+*.bak
+*~
+
+# switch to regexp
+syntax: regexp
